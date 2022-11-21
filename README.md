@@ -7,12 +7,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...JavaScript,Express JS ,Postgress
-- 🌱 I’m currently learning ... Software Web Development
-- 👯 I’m looking to collaborate on ...Web Development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...[linked in ](https://www.linkedin.com/in/ankita-sawrav/)
+- 👋 I’m a Junior Software Developer 
+- 👯 I’m looking to work as a Developer 
+- 💬 Ask me about ..
+- 📫 How to reach me: ...[linked in ](https://www.linkedin.com/in/ankita-sawrav/) or [gmail] (ankita.sawrav@gmail.com)
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...
 -
